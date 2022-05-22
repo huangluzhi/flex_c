@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T04:14:14.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="cIM1wyHeUF2wEw2oV5ts" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-22T04:26:34.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vAuuNfpjC6raPArEvhUg" version="17.2.2" type="github">
   <diagram id="5o5hlKS29rC4ebqAmDlK" name="Page-1">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,14 +10,14 @@
         <mxCell id="-hbCYkltGPlRpGuvW-Tj-2" value="Wikipedia" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbCYkltGPlRpGuvW-Tj-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-hbCYkltGPlRpGuvW-Tj-2" target="-hbCYkltGPlRpGuvW-Tj-5">
+        <mxCell id="-hbCYkltGPlRpGuvW-Tj-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.498;exitY=0.951;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-hbCYkltGPlRpGuvW-Tj-2" target="-hbCYkltGPlRpGuvW-Tj-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="420" as="sourcePoint" />
+            <mxPoint x="260" y="270" as="sourcePoint" />
             <mxPoint x="250" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-hbCYkltGPlRpGuvW-Tj-4" value="&lt;span&gt;zhwiki&lt;br&gt;dumps&lt;br&gt;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="344" y="200" width="60" height="80" as="geometry" />
+          <mxGeometry x="344" y="180" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-hbCYkltGPlRpGuvW-Tj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-hbCYkltGPlRpGuvW-Tj-5" target="-hbCYkltGPlRpGuvW-Tj-13">
           <mxGeometry relative="1" as="geometry">
@@ -33,16 +33,13 @@
             <mxPoint x="374" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbCYkltGPlRpGuvW-Tj-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-hbCYkltGPlRpGuvW-Tj-1" target="-hbCYkltGPlRpGuvW-Tj-10">
+        <mxCell id="-hbCYkltGPlRpGuvW-Tj-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-hbCYkltGPlRpGuvW-Tj-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="420" as="sourcePoint" />
-            <mxPoint x="466" y="280" as="targetPoint" />
+            <mxPoint x="510" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbCYkltGPlRpGuvW-Tj-10" value="Relation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-hbCYkltGPlRpGuvW-Tj-13" value="Entities for cs&lt;br&gt;csNode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hbCYkltGPlRpGuvW-Tj-13" value="Entities for cs&lt;br&gt;(csNode)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-hbCYkltGPlRpGuvW-Tj-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;" edge="1" parent="1" source="-hbCYkltGPlRpGuvW-Tj-4" target="-hbCYkltGPlRpGuvW-Tj-15">
@@ -60,10 +57,10 @@
             <mxPoint x="350" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbCYkltGPlRpGuvW-Tj-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-hbCYkltGPlRpGuvW-Tj-13">
+        <mxCell id="-hbCYkltGPlRpGuvW-Tj-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-hbCYkltGPlRpGuvW-Tj-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="340" as="sourcePoint" />
-            <mxPoint x="344" y="510" as="targetPoint" />
+            <mxPoint x="374" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-hbCYkltGPlRpGuvW-Tj-18" value="Infobox" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="-hbCYkltGPlRpGuvW-Tj-17">
@@ -80,6 +77,18 @@
         </mxCell>
         <mxCell id="-hbCYkltGPlRpGuvW-Tj-21" value="Relation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-hbCYkltGPlRpGuvW-Tj-24" value="Relation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-hbCYkltGPlRpGuvW-Tj-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-hbCYkltGPlRpGuvW-Tj-4" target="-hbCYkltGPlRpGuvW-Tj-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="360" as="sourcePoint" />
+            <mxPoint x="520" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-hbCYkltGPlRpGuvW-Tj-26" value="&lt;span&gt;Entities for&amp;nbsp;&lt;/span&gt;synonyms&lt;br&gt;&lt;span&gt;(synoNode)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
